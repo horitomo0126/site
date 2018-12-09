@@ -1,0 +1,86 @@
+.header-logo{
+  font-size: 60px;
+  margin: 10px;
+}
+
+body{
+  background-color: #FFCC00;
+}
+
+.header-list{
+ background-color: white;
+ height: auto;
+ margin-left: 10px;
+ margin-right: 10px;
+ padding-bottom: 20px;
+}
+
+h1{
+  padding: 10px;
+  font-size: 40px;
+}
+
+.boku4{
+  max-width: 100%;
+  width: 90%;
+  margin-left: 20px;
+}
+
+.white{
+ background: white;
+ text-align: center;
+ margin-top: 30px;
+ margin-bottom: 20px;
+ margin-left: 10px;
+ margin-right: 10px;
+ font-size: 20px;
+ padding: 10px;
+}
+
+/*.bakuman{
+ width: 20%;
+ margin-top: 10px;
+ margin-left: 20px;
+ }*/
+ .backman{
+  width: 130px;
+  margin-left: 25px;
+}
+
+
+
+.disgri5{
+  display: grid;
+  grid-template-rows: auto;
+  grid-template-columns: 1fr 1fr;
+}
+
+.baku{
+  background-color: white;
+  padding: 30px;
+  /*text-align: center;*/
+  height: auto;
+  margin-right: 25px;
+  line-height: 35px;
+  font-size: 20px;
+  text-shadow: 2px 2px 4px gray;
+}
+
+
+h2{
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  margin-right: 25px;
+}
+
+
+
+
+
+
+
+
+
+

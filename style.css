@@ -1,0 +1,146 @@
+.gobox {
+  background-color: white;
+  /*position: absolute;
+  right: 70px;*/
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 20px;
+  font-family:cursive;
+}
+
+.content{
+
+}
+
+.intro{
+  padding-top:100px;
+
+}
+
+.header-logo{
+  font-size: 60px;
+  padding: 10px;
+  text-align: left;
+}
+
+
+.part {
+  display: table;
+  width: 100%;
+  background: #FFF;
+  padding-top:50px;
+}
+.icon {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+.icon + .icon {
+  border-left: 1px solid #CCC;
+}
+.icon a {
+  display: block;
+  padding: 15px 0;
+  color: #666;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+
+.yellow{
+  position: relative;
+  background-color: #FFCC00 ;
+  width: auto;
+  z-index: 1;
+  padding: 30px 0;
+}
+
+.yellow div {
+  width: 50%;
+}
+.yellow div:nth-child(2) {
+  margin-left: auto;
+}
+.yellow div:nth-child(1) {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height
+}
+
+
+.HORIE{
+  margin-bottom: 10px;
+  margin-left: auto;
+  width: 50%;
+   }
+
+
+body{
+	text-align: center;
+}
+img {
+  max-width: 100%;
+}
+.top-img {
+  width:  100%;
+}
+
+
+.horitomo{
+
+  z-index: 2;
+  height: 200px;
+  
+}
+
+.disgri2 {
+  display: grid;
+  grid-template-rows: auto;
+  grid-template-columns: 1fr 1fr;
+}
+
+.disgri3 {
+  display: grid;
+  grid-template-rows: auto;
+  grid-template-columns: 1fr 1fr 1fr;
+
+}
+.disgri3 img {
+  width: 40%;
+  margin: auto;
+
+}
+
+
+.disgri3 div{
+ margin-top: 40px;
+}
+
+
+
+.biggerfont {
+  font-family: fantasy;
+}
+
+
+.plan-box div {
+  padding: 20px 0;
+  text-align: left;
+}
+.plan-box div:nth-child(even) {
+  background-color: gray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
